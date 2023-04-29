@@ -1,0 +1,9 @@
+---
+title: "Horizon-Free and Variance-Dependent Reinforcement Learning for Latent Markov Decision Processes"
+collection: publications
+authors: '**Runlong Zhou**, Ruosong Wang, Simon S. Du'
+excerpt: 'We provide an algorithm framework for Latent MDPs (with context in hindsight), achieving the first horizon-free minimax regret. We complement the study by giving a novel regret lower bound for LMDPs using the symmetrization technique.'
+date: 2022-10-20
+venue: 'ICML 2023'
+paperurl: 'https://arxiv.org/pdf/2210.11604.pdf'
+---

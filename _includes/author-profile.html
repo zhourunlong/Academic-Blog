@@ -7,11 +7,14 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    {% if author.avatar contains "://" %}
-    	<img src="{{ author.avatar }}" alt="{{ author.name }}">
-    {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
-    {% endif %}
+    <p id="test"></p>
+    <img id="avatar_frame" class="author__avatar" alt="{{ author.name }}">
+    <script>
+        let data = ["2021jingdong.png", "2022graduation.png", "2023applepark.png", "2023ucbsoda.png"];
+        let idx = Math.floor(Math.random() * data.length);
+        let filename = data[idx];
+        document.getElementById("avatar_frame").src = "{{ base_path }}" + "/images/avatars/" + filename;
+    </script>
   </div>
 
   <div class="author__content">
