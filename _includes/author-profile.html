@@ -7,13 +7,16 @@
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    <p id="test"></p>
     <img id="avatar_frame" class="author__avatar" alt="{{ author.name }}">
+    <p id="avatar_credit"></p>
     <script>
-        let data = ["2021jingdong.png", "2022graduation.png", "2023applepark.png", "2023ucbsoda.png"];
-        let idx = Math.floor(Math.random() * data.length);
-        let filename = data[idx];
-        document.getElementById("avatar_frame").src = "{{ base_path }}" + "/images/avatars/" + filename;
+        let filename_list= ["2021jingdong.png", "2022graduation.png", "2023applepark.png", "2023ucbsoda.png"];
+        let credit_list = ["JD.com, Inc.", "Junyi Lin", "Haina Jin", "Haina Jin"]
+        let idx = Math.floor(Math.random() * filename_list.length);
+        let filename = filename_list[idx];
+        let credit = credit_list[idx];
+        document.getElementById("avatar_frame").src = "{{ base_path }}" + "/files/avatars/" + filename;
+        document.getElementById("avatar_credit").innerHTML = "Photo by " + credit;
     </script>
   </div>
 

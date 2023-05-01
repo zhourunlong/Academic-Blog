@@ -59,7 +59,6 @@ GEM
       jekyll-coffeescript (= 1.1.1)
       jekyll-commonmark-ghpages (= 0.1.6)
       jekyll-default-layout (= 0.1.4)
-      jekyll-feed (= 0.15.1)
       jekyll-gist (= 1.5.0)
       jekyll-github-metadata (= 2.13.0)
       jekyll-include-cache (= 0.2.1)
@@ -139,8 +138,6 @@ GEM
       rouge (>= 2.0, < 4.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
-    jekyll-feed (0.15.1)
-      jekyll (>= 3.7, < 5.0)
     jekyll-gist (1.5.0)
       octokit (~> 4.2)
     jekyll-github-metadata (2.13.0)
@@ -232,7 +229,6 @@ GEM
     mini_portile2 (2.6.1)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.15.0)
     multipart-post (2.3.0)
@@ -285,8 +281,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   hawkins
-  jekyll-feed
-  jekyll-sitemap
 
 BUNDLED WITH
    1.17.3
