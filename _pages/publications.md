@@ -13,3 +13,12 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+# Preprints
+
+\*: indicating equal contribution or alphabetic ordering.
+
+{% for post in site.preprints reversed %}
+  {% include archive-single.html %}
+{% endfor %}
