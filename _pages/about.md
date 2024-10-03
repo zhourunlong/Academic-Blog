@@ -18,8 +18,7 @@ I feel very fortunate to have had the opportunity to work under the guidance of 
 My research interests primarily focus on reinforcement learning and its theories.
 Currently, I'm researching reinforcement learning from human feedback (RLHF) and physics of language models.
 
-I spent the summer of 2024 at Microsoft AI, Redmond, under the supervision of Dr. [Yi Zhang](https://www.yi-zhang.me/).
-I spent the summer of 2023 at Microsoft Research, Redmond, under the supervision of Dr. [Beibin Li](https://www.beibinli.com/).
+I spent the summer of 2024 at Microsoft AI, Redmond, under the supervision of Dr. [Yi Zhang](https://www.yi-zhang.me/) and the summer of 2023 at Microsoft Research, Redmond, under the supervision of Dr. [Beibin Li](https://www.beibinli.com/).
 I graduated from Yaoclass, [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) in Tsinghua University with a Bachelor of Engineering degree in 2022.
 My undergraduate thesis was jointly advised by Professor Simon Shaolei Du and Professor [Yi Wu](https://jxwuyi.weebly.com/).
 
