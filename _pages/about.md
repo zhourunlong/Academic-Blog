@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Last updated on Oct 2, 2024.
+Last updated on Oct 21, 2024.
 
 ---
 
