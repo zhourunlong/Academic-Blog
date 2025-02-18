@@ -23,4 +23,4 @@ I spent the summer of 2024 at Microsoft AI, Redmond, under the supervision of Dr
 I graduated from Yaoclass, [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University with a Bachelor of Engineering degree in 2022.
 My undergraduate thesis was jointly advised by Professor Simon Shaolei Du and Professor [Yi Wu](https://jxwuyi.weebly.com/).
 
-During my undergraduate and secondary school years, I participated actively in the Olympiad of Informatics and ACM-ICPC.
+During my undergraduate and secondary school years, I participated actively in the Olympiad in Informatics and ACM-ICPC.
