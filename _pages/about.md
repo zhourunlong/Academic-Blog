@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Last updated on Jun 16, 2025.
+Last updated on Jul 7, 2025.
 
 ---
 
@@ -19,7 +19,7 @@ I also work closely with Professor [Maryam Fazel](https://people.ece.uw.edu/faze
 My research focuses on machine learning and its theories, with an emphasis on reinforcement learning (RL) and large language models (LLMs).
 Currently, I'm researching reinforcement learning from human feedback (RLHF), RL theories, and LLM reasoning.
 
-For Summer 2025, I am working as a research intern at Apple, Seattle, under the supervision of [Xuan Kelvin Zou](https://scholar.google.com/citations?user=gSqwyvsAAAAJ&hl=en).
+For Summer 2025, I am working as a research intern at Apple, Seattle, under the supervision of Dr. [Lefan Zhang](https://scholar.google.com/citations?user=QYBQP_wAAAAJ&hl=en) and [Xuan Kelvin Zou](https://scholar.google.com/citations?user=gSqwyvsAAAAJ&hl=en).
 I was a research intern at Microsoft Research, Redmond, under the supervision of Dr. [Baolin Peng](https://www.microsoft.com/en-us/research/people/baolinpeng/) and Dr. [Hao Cheng](https://sites.google.com/site/hcheng2site) in Spring 2025, Dr. [Yi Zhang](https://www.yi-zhang.me/) in Summer 2024, and Dr. [Beibin Li](https://www.beibinli.com/) in Summer 2023.
 
 I graduated from Yao Class, [Institute for Interdisciplinary Information Sciences](https://iiis.tsinghua.edu.cn/en/) at Tsinghua University with a Bachelor of Engineering degree in 2022.
